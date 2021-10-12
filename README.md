@@ -11,6 +11,6 @@
 <a href="https://video2webp.mattj.io/">video2webp converter</a>
 
 <h5> Sandbox </h5>
-<a href="https://https://codepen.io">Codepen </a>
+<a href="https://codepen.io/redcross16">Codepen </a>
 
-a href="https://https://codepen.io">jsFiddle </a>
+<a href="https://jsfiddle.net/user/REDCROSS/fiddles/">jsFiddle (My Profile)</a>
