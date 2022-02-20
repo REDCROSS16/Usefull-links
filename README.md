@@ -14,3 +14,9 @@
 <a href="https://jsfiddle.net/user/REDCROSS/fiddles/">jsFiddle (My Profile)</a>
 
 <h5>  PHP libraries </h5> 
+
+
+<h5>  JS libraries </h5> 
+
+<a href="http://microjs.com">MICRO JS (summary of libraries)</a><br>
+<a href="https://youmightnotneedjquery.com/">May u not need JQuery?;)</a>
