@@ -20,3 +20,9 @@
 
 <a href="http://microjs.com">MICRO JS (summary of libraries)</a><br>
 <a href="https://youmightnotneedjquery.com/">May u not need JQuery?;)</a>
+
+
+<h5>  Design </h5> 
+<a href="https://www.colorpoint.io/beautiful-color-palettes/">Color Pallete</a><br>
+<a href="http://vladimirchernyshov.ru/119-trendovyx-cvetov-dlya-sozdaniya-fantasticheskix-sajtov-na-50-zhivyx-primerax/">119 colo scheme</a><br>
+<a href="https://fishtext.ru/index.php">Fish text</a><br>
