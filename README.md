@@ -14,8 +14,8 @@
 <a href="https://jsfiddle.net/user/REDCROSS/fiddles/">jsFiddle (My Profile)</a>
 
 <h5>  PHP libraries </h5> 
-<a href='https://symfony.com/doc/current/the-fast-track/en/'>Symfony book</a>
-<a href='https://symfonycasts.com/screencast/'>Symfony screencast</a>
+<a href='https://symfony.com/doc/current/the-fast-track/en/'>Symfony book</a><br>
+<a href='https://symfonycasts.com/screencast/symfony/'>Symfony screencast</a>
 
 
 <h5>  JS libraries </h5> 
