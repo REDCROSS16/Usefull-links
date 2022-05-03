@@ -15,7 +15,8 @@
 
 <h5>  PHP libraries </h5> 
 <a href='https://symfony.com/doc/current/the-fast-track/en/'>Symfony book</a><br>
-<a href='https://symfonycasts.com/screencast/symfony/'>Symfony screencast</a>
+<a href='https://symfonycasts.com/screencast/symfony/'>Symfony screencast</a><br>
+<a href="#"> docker & docker compose </a> <br>
 
 
 <h5>  JS libraries </h5> 
@@ -41,8 +42,9 @@
 
 <h5>  Usefull API  </h5> 
 <a href="https://ipinfo.io/">IP INFO</a><br>
-<a href=> docker
-Pattern design
+
+<h5> Patterns </h5>
+<a href="https://designpatternsphp.readthedocs.io/ru/latest/README.html"> Design patterns </a>
 
 
 https://leafletjs.com/SlavaUkraini/examples/quick-start/
