@@ -15,7 +15,9 @@
 
 <h5>  PHP libraries </h5> 
 <a href='https://symfony.com/doc/current/the-fast-track/en/'>Symfony book</a><br>
-<a href='https://symfonycasts.com/screencast/symfony/'>Symfony screencast</a><br>
+<a href='https://symfonycasts.com/screencast/symfony/'><img src="https://cdn-icons.flaticon.com/png/512/3368/premium/3368863.png?token=exp=1651676272~hmac=f837aadebfa9a902503aa317cc81cc6a" style="width:16px;height:16px"> Harmonious Development with Symfony 6</a><br>
+
+
 <a href="#"> docker & docker compose </a> <br>
 
 
