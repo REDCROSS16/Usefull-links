@@ -49,4 +49,5 @@
 <a href="https://designpatternsphp.readthedocs.io/ru/latest/README.html"> Design patterns </a>
 <a href="#"> Design patterns 2</a>
 
-https://leafletjs.com/SlavaUkraini/examples/quick-start/
+
+<a href="https://leafletjs.com/SlavaUkraini/examples/quick-start/">leaflet</a>
