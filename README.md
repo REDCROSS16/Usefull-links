@@ -24,7 +24,7 @@
 <h5>  JS libraries </h5> 
 
 <a href="http://microjs.com">MICRO JS (summary of libraries)</a><br>
-<a href="https://youmightnotneedjquery.com/">May u not need JQuery?;)</a>
+<a href="https://youmightnotneedjquery.com/">May u not need JQuery?;)</a><br>
 <a href="https://leafletjs.com/SlavaUkraini/examples/quick-start/">leaflet</a>
 
 
@@ -47,7 +47,7 @@
 <a href="https://ipinfo.io/">IP INFO</a><br>
 
 <h5> Patterns </h5>
-<a href="https://designpatternsphp.readthedocs.io/ru/latest/README.html"> Design patterns </a>
+<a href="https://designpatternsphp.readthedocs.io/ru/latest/README.html"> Design patterns </a><br>
 <a href="#"> Design patterns 2</a>
 
 
