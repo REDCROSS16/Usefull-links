@@ -25,6 +25,7 @@
 
 <a href="http://microjs.com">MICRO JS (summary of libraries)</a><br>
 <a href="https://youmightnotneedjquery.com/">May u not need JQuery?;)</a>
+<a href="https://leafletjs.com/SlavaUkraini/examples/quick-start/">leaflet</a>
 
 
 <h5>  Design </h5> 
@@ -50,4 +51,3 @@
 <a href="#"> Design patterns 2</a>
 
 
-<a href="https://leafletjs.com/SlavaUkraini/examples/quick-start/">leaflet</a>
