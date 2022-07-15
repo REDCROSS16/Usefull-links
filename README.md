@@ -47,7 +47,7 @@
 <a href="https://ipinfo.io/">IP INFO</a><br>
 
 <h5> Patterns </h5>
-<a href="https://designpatternsphp.readthedocs.io/ru/latest/README.html"> Design patterns </a><br>
-<a href="#"> Design patterns 2</a>
+<a href="https://designpatternsphp.readthedocs.io/ru/latest/README.html"> Design patterns PHP DOCS </a><br>
+<a href="https://refactoring.guru/ru/design-patterns"> Design patterns RefactoringGuRu</a>
 
 
