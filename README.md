@@ -16,7 +16,7 @@
 <h5>  PHP libraries </h5> 
 <a href='https://symfony.com/doc/current/the-fast-track/en/'>Symfony book</a><br>
 <a href='https://symfonycasts.com/screencast/symfony/'> Harmonious Development with Symfony 6</a><br>
-[] Symfony cheatsheat
+<a href='https://cheatography.com/tag/symfony/'> Symfony cheatsheat</a>
 
 <a href="#"> docker & docker compose </a> <br>
 <a href="#"> docker examples and commands </a>
