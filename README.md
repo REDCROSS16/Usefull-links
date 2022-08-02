@@ -27,7 +27,7 @@
 <a href="http://microjs.com">MICRO JS (summary of libraries)</a><br>
 <a href="https://youmightnotneedjquery.com/">May u not need JQuery?;)</a><br>
 <a href="https://leafletjs.com/SlavaUkraini/examples/quick-start/">leaflet</a>
-
+<a href="https://nextjs.org/docs/getting-started"> Next JS </a>
 
 <h5>  Design </h5> 
 <a href="https://www.colorpoint.io/beautiful-color-palettes/">Color Pallete</a><br>
