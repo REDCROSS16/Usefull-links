@@ -1,4 +1,6 @@
-<h5 href='/IDE/ide.md'> IDE / Редакторы кода </h5>
+<h5> 
+    <a href='/IDE/ide.md'> IDE / Редакторы кода </a>
+</h5>
 
 <h5> Utilities </h5>
 <a href="https://video2webp.mattj.io/">video2webp converter</a>
