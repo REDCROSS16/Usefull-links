@@ -3,7 +3,8 @@
 </h5>
 
 ## Frameworks
-[Laravel](https://laravel.com/)
+- [Laravel](/Frameworks/laravel.md)
+- [Symfony](/Frameworks/symfony.md)
 
 <h5> Utilities </h5>
 <a href="https://video2webp.mattj.io/">video2webp converter</a>
