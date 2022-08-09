@@ -2,8 +2,8 @@
     <a href='/IDE/ide.md'> IDE / Редакторы кода </a>
 </h5>
 
-## laravel
-['laravel']('https://laravel.com/')
+## Frameworks
+[Laravel](https://laravel.com/)
 
 <h5> Utilities </h5>
 <a href="https://video2webp.mattj.io/">video2webp converter</a>
