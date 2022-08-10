@@ -2,6 +2,12 @@
     <a href='/IDE/ide.md'> IDE / Редакторы кода </a>
 </h5>
 
+## Software design principles
+Software design principles are a set of guidelines that helps developers to make a good system design.
+
+In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
+[section page](/Principles/principles.md)
+
 ## Frameworks
 - [Laravel](/Frameworks/laravel.md)
 - [Symfony](/Frameworks/symfony.md)
@@ -56,3 +62,8 @@
 # API RESTful
 - [REST](./RESTful/rest.md)
 ![rest](/images/api.png)
+
+# Project management methodology
+- [Agile](/pmm/agile.md)
+- [Scrum](/pmm/scrum.md)
+- [Kanban](/pmm/kanban.md)

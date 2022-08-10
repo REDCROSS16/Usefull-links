@@ -1,2 +1,3 @@
 ## Laravel
-- [Laravel](https://laravel.com/)
+- [Laravel Documentation](https://laravel.com/)
+- [Laracast](https://laracasts.com/)

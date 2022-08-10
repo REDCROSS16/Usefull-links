@@ -1,2 +1,2 @@
 ## Symfony
-- [Symfony](https://symfony.com/)
+- [Symfony Documentation](https://symfony.com/)
