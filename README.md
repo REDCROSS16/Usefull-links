@@ -33,7 +33,7 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 
 <a href="http://microjs.com">MICRO JS (summary of libraries)</a><br>
 <a href="https://youmightnotneedjquery.com/">May u not need JQuery?;)</a><br>
-<a href="https://leafletjs.com/SlavaUkraini/examples/quick-start/">leaflet</a>
+<a href="https://leafletjs.com/SlavaUkraini/examples/quick-start/">leaflet</a><br>
 <a href="https://nextjs.org/docs/getting-started"> Next JS </a>
 
 <h5>  Design </h5> 
@@ -59,9 +59,9 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 <a href="https://refactoring.guru/ru/design-patterns"> Design patterns RefactoringGuRu</a>
 
 
-![rest](https://img.shields.io/badge/restful-api-black6)
+
 # API RESTful 
-- [REST](./RESTful/rest.md)
+- [REST](./RESTful/rest.md) ![rest](https://img.shields.io/badge/restful-api-black6)
 
 
 # Project management methodology

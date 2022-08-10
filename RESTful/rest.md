@@ -4,6 +4,7 @@
 
 <a href="restapitutorial.com">restapitutorial.com</a>
 <a href="restapitutorial.ru">restapitutorial.ru</a>
+- [REST API QUICKTIPS](https://restapitutorial.ru/lessons/restquicktips.html)
 
 
 
