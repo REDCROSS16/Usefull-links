@@ -2,6 +2,13 @@
     <a href='/IDE/ide.md'> IDE / Редакторы кода </a>
 </h5>
 
+## Software development methodology
+Software development methodology refers to structured processes involved when working on a project.
+The goal is to provide a systematic approach to software development.
+- [TDD](/sdm/tdd.md)
+- [DDD](/sdm/ddd.md)
+- [books](/sdm/books.md)
+
 ## Software design principles
 Software design principles are a set of guidelines that helps developers to make a good system design.
 

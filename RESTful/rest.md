@@ -2,9 +2,9 @@
 
 ## Basic level
 
-<a href="restapitutorial.com">restapitutorial.com</a>
-<a href="restapitutorial.ru">restapitutorial.ru</a>
-- [REST API QUICKTIPS](https://restapitutorial.ru/lessons/restquicktips.html)
+- [restapitutorial.com](restapitutorial.com)
+- [restapitutorial.ru](restapitutorial.ru)
+- [REST API quickyips](https://restapitutorial.ru/lessons/restquicktips.html)
 
 
 
