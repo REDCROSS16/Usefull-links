@@ -59,9 +59,10 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 <a href="https://refactoring.guru/ru/design-patterns"> Design patterns RefactoringGuRu</a>
 
 
-# API RESTful
+![rest](https://img.shields.io/badge/restful-api-black6)
+# API RESTful 
 - [REST](./RESTful/rest.md)
-![rest](/images/api.png)
+
 
 # Project management methodology
 - [Agile](/pmm/agile.md)
