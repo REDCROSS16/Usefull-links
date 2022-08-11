@@ -1,9 +1,6 @@
-## IDE / Редакторы кода
-> [](/IDE/ide.md)
 
-<h5> 
-    <a href='/IDE/ide.md'> IDE / Редакторы кода </a>
-</h5>
+
+
 
 ## Software development methodology
 Software development methodology refers to structured processes involved when working on a project.
@@ -22,15 +19,17 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 - [Laravel](/Frameworks/laravel.md)
 - [Symfony](/Frameworks/symfony.md)
 
-## Version Control System
+### Version Control System
 - [Git Book](https://git-scm.com/book/ru) 
 - [Git WorkFlow Evernote](https://www.evernote.com/shard/s249/sh/5fe771e5-6050-5cc5-3070-97f56af704cf/a5e4f2aece2d68770a04f2cd61c7813a)
 
-# API RESTful 
+### API RESTful 
 - [REST](./RESTful/rest.md) ![rest](https://img.shields.io/badge/restful-api-black6)
 
-<h5> Utilities </h5>
-<a href="https://video2webp.mattj.io/">video2webp converter</a>
+### Utilities
+> [IDE / Редакторы кода](/IDE/ide.md)
+> [video2webp converter](https://video2webp.mattj.io/)
+
 
 <h5> Sandbox </h5>
 <a href="https://codepen.io/redcross16">Codepen </a>
