@@ -32,6 +32,7 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 
 
 ## Sandbox
+> [Codepen]()
 <a href="https://codepen.io/redcross16">Codepen </a>
 <a href="https://jsfiddle.net/user/REDCROSS/fiddles/">jsFiddle (My Profile)</a>
 
