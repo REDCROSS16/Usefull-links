@@ -24,14 +24,19 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 - [Git WorkFlow Evernote](https://www.evernote.com/shard/s249/sh/5fe771e5-6050-5cc5-3070-97f56af704cf/a5e4f2aece2d68770a04f2cd61c7813a)
 
 ### API RESTful 
+<<<<<<< HEAD
 - [REST](./RESTful/rest.md)
+=======
+- [REST](/RESTful/rest.md) ![rest](https://img.shields.io/badge/restful-api-black6)
+>>>>>>> bb48fbb76a656fb5e5bcf18281e80ff458385d7d
 
 ### Utilities
 > [IDE / Редакторы кода](/IDE/ide.md)<br>
 > [video2webp converter](https://video2webp.mattj.io/)
 
 
-<h5> Sandbox </h5>
+## Sandbox
+> [Codepen]()
 <a href="https://codepen.io/redcross16">Codepen </a>
 <a href="https://jsfiddle.net/user/REDCROSS/fiddles/">jsFiddle (My Profile)</a>
 
