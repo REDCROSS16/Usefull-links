@@ -35,7 +35,8 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 > [Codepen](https://codepen.io/redcross16)
 > [JSfiddle](https://jsfiddle.net/user/REDCROSS/fiddles/)
 
-<h5>  PHP libraries </h5> 
+# PHP libraries
+> [Symfony book] (https://symfony.com/doc/current/the-fast-track/en/)
 <a href='https://symfony.com/doc/current/the-fast-track/en/'>Symfony book</a><br>
 <a href='https://symfony.com/doc/'>Symfony Docs</a><br>
 <a href='https://symfonycasts.com/screencast/symfony/'> Harmonious Development with Symfony 6</a><br>
