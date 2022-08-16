@@ -36,10 +36,10 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 > [JSfiddle](https://jsfiddle.net/user/REDCROSS/fiddles/)
 
 # PHP libraries
-> [Symfony book] (https://symfony.com/doc/current/the-fast-track/en/)
-<a href='https://symfony.com/doc/current/the-fast-track/en/'>Symfony book</a><br>
-<a href='https://symfony.com/doc/'>Symfony Docs</a><br>
-<a href='https://symfonycasts.com/screencast/symfony/'> Harmonious Development with Symfony 6</a><br>
+> [Symfony book](https://symfony.com/doc/current/the-fast-track/en/)
+> [Symfony Docs](https://symfony.com/doc/)
+> [Harmonious Development with Symfony 6](https://symfonycasts.com/screencast/symfony/)
+
 <a href='https://cheatography.com/tag/symfony/'> Symfony cheatsheat</a>
 
 <a href="123#"> docker & docker compose </a> <br>
