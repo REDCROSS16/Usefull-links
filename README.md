@@ -35,12 +35,7 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 > [Codepen](https://codepen.io/redcross16)
 > [JSfiddle](https://jsfiddle.net/user/REDCROSS/fiddles/)
 
-# PHP libraries
-> [Symfony book](https://symfony.com/doc/current/the-fast-track/en/)
-> [Symfony Docs](https://symfony.com/doc/)
-> [Harmonious Development with Symfony 6](https://symfonycasts.com/screencast/symfony/)
 
-<a href='https://cheatography.com/tag/symfony/'> Symfony cheatsheat</a>
 
 <a href="123#"> docker & docker compose </a> <br>
 <a href="#"> docker examples and commands </a><br>
