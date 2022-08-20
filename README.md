@@ -40,6 +40,7 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 - [docker images setting](https://www.evernote.com/shard/s249/sh/c2692875-efc0-3943-59b1-c5bc9e0ea4db/80c670e808078d7371c114aeade9c2d8)
 
 <h5>  JS libraries </h5> 
+[MicroJS summary of libraries] (http://microjs.com)
 <a href="http://microjs.com">MICRO JS (summary of libraries)</a><br>
 <a href="https://youmightnotneedjquery.com/">May u not need JQuery?;)</a><br>
 <a href="https://leafletjs.com/SlavaUkraini/examples/quick-start/">leaflet</a><br>
