@@ -47,8 +47,9 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 
 
 
-<h5>  Usefull API  </h5> 
-<a href="https://ipinfo.io/">IP INFO</a><br>
+## Usefull API
+> [Ip info](https://ipinfo.io)
+
 
 <h5> Patterns </h5>
 <a href="https://designpatternsphp.readthedocs.io/ru/latest/README.html"> Design patterns PHP DOCS </a><br>
