@@ -51,8 +51,9 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 > [Ip info](https://ipinfo.io)
 
 
-<h5> Patterns </h5>
-<a href="https://designpatternsphp.readthedocs.io/ru/latest/README.html"> Design patterns PHP DOCS </a><br>
+## Design Patterns
+> [PHP DOCS] (https://designpatternsphp.readthedocs.io/ru/latest/README.html)
+<a href=""> Design patterns PHP DOCS </a><br>
 <a href="https://refactoring.guru/ru/design-patterns"> Design patterns RefactoringGuRu</a>
 
 
