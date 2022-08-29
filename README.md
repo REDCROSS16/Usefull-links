@@ -1,7 +1,4 @@
 
-
-
-
 ## Software development methodology
 Software development methodology refers to structured processes involved when working on a project.
 The goal is to provide a systematic approach to software development.
@@ -45,22 +42,12 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 ## Design 
 - [Design](/design/design.md)
 
-
-
 ## Usefull API
 > [Ip info](https://ipinfo.io)
 
-
 ## Design Patterns
 > [PHP DOCS] (https://designpatternsphp.readthedocs.io/ru/latest/README.html)
-<a href=""> Design patterns PHP DOCS </a><br>
-<a href="https://refactoring.guru/ru/design-patterns"> Design patterns RefactoringGuRu</a>
-
-
-
-
-
-
+> [Refectoring GURU] (https://refactoring.guru/ru/design-patterns)
 # Project management methodology
 - [Agile](/pmm/agile.md)
 - [Scrum](/pmm/scrum.md)
