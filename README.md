@@ -10,7 +10,7 @@ The goal is to provide a systematic approach to software development.
 Software design principles are a set of guidelines that helps developers to make a good system design.
 
 In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
-[section page](/Principles/principles.md)
+- [section page](/Principles/principles.md)
 
 ## Frameworks
 - [Laravel](/Frameworks/laravel.md)
@@ -52,3 +52,7 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 - [Agile](/pmm/agile.md)
 - [Scrum](/pmm/scrum.md)
 - [Kanban](/pmm/kanban.md)
+
+
+# Static analys code
+- [PHP-CS-FIXER](/tools/php-cs-fixer.md)
