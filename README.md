@@ -55,4 +55,4 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 
 
 # Static analys code
-- [PHP-CS-FIXER](/tools/php-cs-fixer.md)
+- [PHP-CS-FIXER](/tools/php-cs-fixer/php-cs-fixer.md)
