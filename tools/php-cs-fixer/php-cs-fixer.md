@@ -11,7 +11,7 @@ $ composer require --dev friendsofphp/php-cs-fixer
 ```
 
 ### Setting
-You should include our coding standard rules' [config file](/tools/php-cs-fixer/php-cs-fixer.dist.php) into the root of your project for the fixer
+You should include our coding standard rules' [config file](/.php-cs-fixer.dist.php) into the root of your project for the fixer
 to use when fixing code. You may need to adjust the `Finder` paths to suite your project.
 
 > For list of all rule sets visit https://mlocati.github.io/php-cs-fixer-configurato
