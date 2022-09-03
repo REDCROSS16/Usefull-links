@@ -20,7 +20,7 @@ to use when fixing code. You may need to adjust the `Finder` paths to suite your
 > standard rules file above !!!
 
 ### Configure IDE
-![image](/php-cs-fixer.png)
+![image](php-cs-fixer.png)
 
 > The path will be [path to composer root]/vendor/bin/php-cs-fixer
 > In inspection settings, select checkbox and choose a custom ruleset pointing to our setting file.
