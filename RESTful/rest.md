@@ -10,7 +10,7 @@
 
 ## Advanced level
 
-<a href="https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm">Roy Fielding - Representational State Transfer</a>
+- [Roy Fielding - Representational State Transfer](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm)
 
 
 [return to main page](../README.md)

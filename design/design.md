@@ -1,9 +1,16 @@
 ### Design
 > Color pallete to choose some color 
-[Color Pallete](https://www.colorpoint.io/beautiful-color-palettes/)
+![image](images/colorpallete.PNG)
+[Link](https://www.colorpoint.io/beautiful-color-palettes/)
 
-<a href="http://vladimirchernyshov.ru/119-trendovyx-cvetov-dlya-sozdaniya-fantasticheskix-sajtov-na-50-zhivyx-primerax/">119 colo scheme</a><br>
-<a href="https://fishtext.ru/index.php">Fish text</a><br>
+> 119 color scheme
+![image](http://vladimirchernyshov.ru/wp-content/uploads/2014/09/119.png)
+[Link](http://vladimirchernyshov.ru/119-trendovyx-cvetov-dlya-sozdaniya-fantasticheskix-sajtov-na-50-zhivyx-primerax/)
+
+> Fish text generator 
+![image](images/fishtext.PNG)
+[Link](https://fishtext.ru/index.php)
+
 <a href="https://neumorphism.io/#e0e0e0">Neumorphism.io</a><br>
 <a href="https://bennettfeely.com/clippy/">CSS clip maker</a><br>
 <a href="https://animista.net/">Animista - animation css</a><br>
