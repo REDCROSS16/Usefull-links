@@ -1,17 +1,21 @@
-### Design
-> Color pallete to choose some color 
-![image](images/colorpallete.PNG)
+# Design
+#### Colorpoint.io pallete to choose some color 
+> ![image](images/colorpallete.PNG)
 [Link](https://www.colorpoint.io/beautiful-color-palettes/)
 
-> 119 color scheme
-![image](http://vladimirchernyshov.ru/wp-content/uploads/2014/09/119.png)
+#### 119 color scheme
+> ![image](http://vladimirchernyshov.ru/wp-content/uploads/2014/09/119.png)
 [Link](http://vladimirchernyshov.ru/119-trendovyx-cvetov-dlya-sozdaniya-fantasticheskix-sajtov-na-50-zhivyx-primerax/)
 
-> Fish text generator 
-![image](images/fishtext.PNG)
+#### Fishtext.ru generator 
+>![image](images/fishtext.PNG)
 [Link](https://fishtext.ru/index.php)
 
-<a href="https://neumorphism.io/#e0e0e0">Neumorphism.io</a><br>
+#### Neumorphism.io
+>![image](images/neumorhism.PNG)
+[Link](https://neumorphism.io/#e0e0e0)
+
+
 <a href="https://bennettfeely.com/clippy/">CSS clip maker</a><br>
 <a href="https://animista.net/">Animista - animation css</a><br>
 <a href="https://purgecss.com/">Purge CSS - clear unused css code</a><br>
