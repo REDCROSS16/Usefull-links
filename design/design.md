@@ -15,8 +15,10 @@
 >![image](images/neumorhism.PNG)
 [Link](https://neumorphism.io/#e0e0e0)
 
+#### CSS Clip maker
+>![image](images/css-clip.PNG)
+[Link](https://bennettfeely.com/clippy/)
 
-<a href="https://bennettfeely.com/clippy/">CSS clip maker</a><br>
 <a href="https://animista.net/">Animista - animation css</a><br>
 <a href="https://purgecss.com/">Purge CSS - clear unused css code</a><br>
 <a href="https://shadows.brumm.af/">Shadow GENERATOR</a><br>
