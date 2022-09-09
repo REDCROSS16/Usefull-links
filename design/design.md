@@ -19,7 +19,10 @@
 >![image](images/css-clip.PNG)
 [Link](https://bennettfeely.com/clippy/)
 
-<a href="https://animista.net/">Animista - animation css</a><br>
+#### Animista.net
+>![image](images/animista.PNG)
+[Link](https://animista.net/)
+
 <a href="https://purgecss.com/">Purge CSS - clear unused css code</a><br>
 <a href="https://shadows.brumm.af/">Shadow GENERATOR</a><br>
 <a href="https://cssgradient.io/">CSS gradient</a><br>
