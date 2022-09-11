@@ -27,8 +27,11 @@
 >![image](images/pursecss.PNG)
 [Link](https://purgecss.com/)
 
+#### Shadow GENERATOR
+![image](images/shadow.png)
+[Link](https://shadows.brumm.af/)
 
-<a href="https://shadows.brumm.af/">Shadow GENERATOR</a><br>
+<a href=""></a><br>
 <a href="https://cssgradient.io/">CSS gradient</a><br>
 <a href="https://cssgrid-generator.netlify.app/">Grid generator</a><br>
 <a href="https://getwaves.io/">Waves generator</a><br>
