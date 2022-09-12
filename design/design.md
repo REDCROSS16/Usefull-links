@@ -31,9 +31,23 @@
 ![image](images/shadow.png)
 [Link](https://shadows.brumm.af/)
 
-<a href=""></a><br>
+#### CSSgradient.io
+
+
+
 <a href="https://cssgradient.io/">CSS gradient</a><br>
+
+
+#### Grid Generator
+
+
 <a href="https://cssgrid-generator.netlify.app/">Grid generator</a><br>
+
+
+#### Waves generator
 <a href="https://getwaves.io/">Waves generator</a><br>
+
+
+#### FLexBox
 
 <a href="https://flexbox.malven.co/">FLex</a><br>
