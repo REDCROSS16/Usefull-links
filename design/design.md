@@ -32,16 +32,13 @@
 [Link](https://shadows.brumm.af/)
 
 #### CSSgradient.io
-
-
-
-<a href="https://cssgradient.io/">CSS gradient</a><br>
-
+![image](images/cssgradient.PNG)
+[Link](https://cssgradient.io/)
 
 #### Grid Generator
+![image](images/cssgrid.PNG)
+[Link](https://cssgrid-generator.netlify.app/)
 
-
-<a href="https://cssgrid-generator.netlify.app/">Grid generator</a><br>
 
 
 #### Waves generator
