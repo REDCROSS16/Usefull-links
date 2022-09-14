@@ -39,10 +39,9 @@
 ![image](images/cssgrid.PNG)
 [Link](https://cssgrid-generator.netlify.app/)
 
-
-
 #### Waves generator
-<a href="https://getwaves.io/">Waves generator</a><br>
+![image](images/csswaves.PNG)
+[Link](https://getwaves.io/)
 
 
 #### FLexBox
