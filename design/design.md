@@ -39,11 +39,12 @@
 ![image](images/cssgrid.PNG)
 [Link](https://cssgrid-generator.netlify.app/)
 
+
 #### Waves generator
 ![image](images/csswaves.PNG)
 [Link](https://getwaves.io/)
 
 
 #### FLexBox
-
-<a href="https://flexbox.malven.co/">FLex</a><br>
+![image](images/flexbox.PNG)
+[Link](https://flexbox.malven.co/)
