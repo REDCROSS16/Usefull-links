@@ -6,7 +6,7 @@ The PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow sta
 ### Install
 You will need to install it into the project vendors to run in CI jobs:
 ```bash
-$ composer require --dev friendsofphp/php-cs-fixer
+composer require --dev friendsofphp/php-cs-fixer
 ```
 
 ### Settings
@@ -28,9 +28,7 @@ to use when fixing code. You may need to adjust the `Finder` paths to suite your
 ![image](php-cs-fixer-inspection.png)
 
 #### Run
-```
-$ vendor/bin/php-cs-fixer fix --config=.php-cs-fixer.dist.php -v --using-cache=no
-```
+```vendor/bin/php-cs-fixer fix --config=.php-cs-fixer.dist.php -v --using-cache=no```
 
 
 #

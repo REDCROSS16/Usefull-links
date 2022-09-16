@@ -28,23 +28,21 @@
 [Link](https://purgecss.com/)
 
 #### Shadow GENERATOR
-![image](images/shadow.png)
+>![image](images/shadow.png)
 [Link](https://shadows.brumm.af/)
 
 #### CSSgradient.io
-![image](images/cssgradient.PNG)
+>![image](images/cssgradient.PNG)
 [Link](https://cssgradient.io/)
 
 #### Grid Generator
-![image](images/cssgrid.PNG)
+>![image](images/cssgrid.PNG)
 [Link](https://cssgrid-generator.netlify.app/)
 
-
 #### Waves generator
-![image](images/csswaves.PNG)
+>![image](images/csswaves.PNG)
 [Link](https://getwaves.io/)
 
-
 #### FLexBox
-![image](images/flexbox.PNG)
+>![image](images/flexbox.PNG)
 [Link](https://flexbox.malven.co/)
