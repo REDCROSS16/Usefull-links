@@ -16,5 +16,5 @@
 > \
 > ![](images/978-5-00100-614-5.jpg)
 
-#
+---
 [return to main page](../README.md)
