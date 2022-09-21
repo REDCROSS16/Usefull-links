@@ -31,7 +31,7 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 - [REST](/RESTful/rest.md)
 
 ### Utilities
-- [IDE / Редакторы кода](/IDE/ide.md)<br>
+- [IDE / Редакторы кода](/IDE/ide.md)
 - [video2webp converter](https://video2webp.mattj.io/)
 
 ## Sandbox
@@ -39,8 +39,6 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 - [JSfiddle](https://jsfiddle.net/user/REDCROSS/fiddles/)
 
 ## Docker
-- [docker & docker compose]()
-- [docker examples and commands]()
 - [docker images setting](https://www.evernote.com/shard/s249/sh/c2692875-efc0-3943-59b1-c5bc9e0ea4db/80c670e808078d7371c114aeade9c2d8)
 
 
