@@ -53,6 +53,7 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 ## Design Patterns
 - [PHP DOCS](https://designpatternsphp.readthedocs.io/ru/latest/README.html)
 - [Refectoring GURU](https://refactoring.guru/ru/design-patterns)
+- [</php patterns.ru](http://www.phppatterns.ru/patterns)
 # Project management methodology
 - [Agile](/pmm/agile.md)
 - [Scrum](/pmm/scrum.md)
