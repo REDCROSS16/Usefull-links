@@ -10,6 +10,7 @@
 Software development methodology refers to structured processes invodlved when working on a project.
 The goal is to provide a systematic approach to software development.
 - [TDD](/sdm/tdd.md)
+- [BDD] soon
 - [DDD](/sdm/ddd.md)
 - [books](/sdm/books.md)
 
