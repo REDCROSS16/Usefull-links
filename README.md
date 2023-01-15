@@ -31,6 +31,7 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 
 ### API RESTful 
 - [REST](/RESTful/rest.md)
+- [RPC] (RPC soon)
 
 ### Utilities
 - [IDE / Редакторы кода](/IDE/ide.md)
