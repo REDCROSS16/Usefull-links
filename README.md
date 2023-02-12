@@ -47,6 +47,9 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 
 ## JS Libraries
 - [JS libraries](/JS/libraries.md)
+- [Axios] (https://axios-http.com/)
+- [Stimulus] (https://stimulus.hotwired.dev/)
+
 ## Design 
 - [Design](/design/design.md)
 
