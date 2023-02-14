@@ -19,7 +19,7 @@ The goal is to provide a systematic approach to software development.
 Software design principles are a set of guidelines that helps developers to make a good system design.
 
 In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
-- [section page](/Principles/principles.md)
+- [Principles](/Principles/principles.md)
 
 ## Frameworks
 - [Laravel](/Frameworks/laravel.md)
@@ -40,6 +40,7 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 ## Sandbox
 - [Codepen](https://codepen.io/redcross16)
 - [JSfiddle](https://jsfiddle.net/user/REDCROSS/fiddles/)
+- [Onlinephp](https://onlinephp.io/)
 
 ## Docker
 - [docker images setting](https://www.evernote.com/shard/s249/sh/c2692875-efc0-3943-59b1-c5bc9e0ea4db/80c670e808078d7371c114aeade9c2d8)
@@ -47,11 +48,12 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 
 ## JS Libraries
 - [JS libraries](/JS/libraries.md)
-- [Axios] (https://axios-http.com/)
-- [Stimulus] (https://stimulus.hotwired.dev/)
+- [Axios](https://axios-http.com/)
+- [Stimulus](https://stimulus.hotwired.dev/)
 
 ## Design 
 - [Design](/design/design.md)
+- [TailwindCss](https://tailwindui.com/documentation#getting-set-up)
 
 ## Usefull API
 - [Ip info](https://ipinfo.io)
@@ -62,16 +64,19 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 - [</php patterns.ru](http://www.phppatterns.ru/patterns)
 - [Disign patterns examples](/patterns/patterns.md)
 
-# Project management methodology
+## Project management methodology
 - [Agile](/pmm/agile.md)
 - [Scrum](/pmm/scrum.md)
 - [Kanban](/pmm/kanban.md)
 
+## Testing
+- [Codeception](https://codeception.com/quickstart)
 
-# Static analys code
+## Static analys code
 - [PHP-CS-FIXER](/tools/php-cs-fixer/php-cs-fixer.md)
 - [PHPSTAN](/tools/phpstan/phpstan.md)
 - [PHPMD](/tools/phpmd/phpmd.md)
+- [TODO Rector](/tools/rector/rector.md)
 
 
 # SQL Examples
