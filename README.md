@@ -57,6 +57,7 @@ Docker hub
 - [JS libraries](/JS/libraries.md)
 - [Axios](https://axios-http.com/)
 - [Stimulus](https://stimulus.hotwired.dev/)
+- [JQuery](#)
 
 ## Design 
 - [Design](/design/design.md)
