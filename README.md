@@ -71,7 +71,7 @@ Docker hub
 - [PHP DOCS](https://designpatternsphp.readthedocs.io/ru/latest/README.html)
 - [Refectoring GURU](https://refactoring.guru/ru/design-patterns)
 - [</php patterns.ru](http://www.phppatterns.ru/patterns)
-- [Disign patterns examples](/patterns/patterns.md)
+- [Design patterns examples](/patterns/patterns.md)
 
 ## Project management methodology
 - [Agile](/pmm/agile.md)
@@ -90,3 +90,5 @@ Docker hub
 
 # SQL Examples
 - [Join](/sql/join.md)
+
+# books
