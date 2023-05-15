@@ -1,5 +1,5 @@
 ## Get Jump
-- [Basic](https://getjump.github.io)
+- [Basic](https://getjump.github.io/ru-php-the-right-way/)
 
 ## OOP
 
