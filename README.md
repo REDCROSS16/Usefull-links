@@ -15,6 +15,7 @@ The goal is to provide a systematic approach to software development.
 - [TDD](/sdm/tdd.md)
 - [DDD](/sdm/ddd.md)
 - [BDD] soon
+---
 - [books](/sdm/books.md)
 
 ## Software design principles
