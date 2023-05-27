@@ -8,6 +8,12 @@
 > <br>
 > ![](../images//books/ideal_programmist.jpg)
 
+> ### Чистый код
+> Роберт Мартин<br>
+> ISBN: 978-5-4461-0960-9<br>
+> <br>
+> ![](https://i.ebayimg.com/00/s/OTE1WDY1MA==/z/7RsAAOSwpP1jbNO9/$_57.JPG?set_id=880000500F)
+
 
 #
 [back](../README.md)
