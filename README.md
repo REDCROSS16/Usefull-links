@@ -27,14 +27,10 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 ## PHP Frameworks
 - [Laravel](/Frameworks/laravel.md)
 - [Symfony](/Frameworks/symfony.md)
-- [CodeIgniter](/Frameworks/сodeIgniter.md)
-- [URL](https://kinsta.com/blog/php-frameworks/#codeigniter)
-- [zend](/Frameworks/yii.md)
-- [URL](https://kinsta.com/blog/php-frameworks/#zend-framework--laminas-project)
-- [cake](/Frameworks/cake.md)
-- [url](https://kinsta.com/blog/php-frameworks/#cakephp)
-- [fuelphp](/Frameworks/fuel.md)
-- [url](https://kinsta.com/blog/php-frameworks/#fuelphp)
+- [CodeIgniter](https://kinsta.com/blog/php-frameworks/#codeigniter)
+- [Zend](https://kinsta.com/blog/php-frameworks/#zend-framework--laminas-project)
+- [Cake](https://kinsta.com/blog/php-frameworks/#cakephp)
+- [FuelPhp](https://kinsta.com/blog/php-frameworks/#fuelphp)
 
 ### Version Control System
 - [Git Book](https://git-scm.com/book/ru) 
