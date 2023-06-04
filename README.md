@@ -36,9 +36,10 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 - [Git Book](https://git-scm.com/book/ru) 
 - [Git WorkFlow Evernote](https://www.evernote.com/shard/s249/sh/5fe771e5-6050-5cc5-3070-97f56af704cf/a5e4f2aece2d68770a04f2cd61c7813a)
 
-### API RESTful 
-- [REST](/RESTful/rest.md)
+### API
+- [API RESTful](/RESTful/rest.md)
 - [RPC] (RPC soon)
+- [SOAP] (SOAP soon)
 
 ### Utilities
 - [IDE / Редакторы кода](/IDE/ide.md)
