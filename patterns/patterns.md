@@ -8,6 +8,7 @@
 
 
 ### Поведенческие / behavioral
+[Command](behavioral/command.md)
 
 #
 [return to main page](../README.md)
