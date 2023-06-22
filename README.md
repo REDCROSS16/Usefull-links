@@ -93,6 +93,7 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 # SQL Examples
 - [Join](/sql/join.md)
 - [Subquery](/sql/subquery.md)
-
+- [Groupby](/sql/groupby.md)
+  
 # books
 - [main](/books/main.md)
