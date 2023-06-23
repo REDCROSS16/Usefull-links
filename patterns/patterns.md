@@ -2,6 +2,7 @@
 
 #### Порождающие / creational
 [Singleton](creational/singleton.md)
+[AbstractFactory](creational/afactory.md)
 
 
 ### Структурные / Structural
