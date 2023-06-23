@@ -11,7 +11,7 @@
 [Adapter](structural/adapter.md)
 [Bridge](structural/bridge.md)
 [Composite](structural/composite.md)
-[Decorator]()
+[Decorator](structural/decorator.md)
 [Facade]()
 [Proxy]()
 [Lightweight]()
