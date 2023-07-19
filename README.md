@@ -1,4 +1,4 @@
-## Get Jump in php
+## Get Jump
 - [Basic](https://getjump.github.io/ru-php-the-right-way/)
 
 ## OOP
