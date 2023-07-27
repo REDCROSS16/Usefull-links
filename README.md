@@ -95,6 +95,7 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 - [Subquery](/sql/subquery.md)
 - [Groupby](/sql/groupby.md)
 - [Orderby](/sql/orderby.md)
+- [FAQ](/sql/faq.md)
   
 # books
 - [main](/books/main.md)
