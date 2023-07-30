@@ -38,7 +38,7 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 
 ### API
 - [API RESTful](/RESTful/rest.md)
-- [RPC] (RPC soon)
+- [RPC](https://itnan.ru/post.php?c=1&p=446348)
 - [SOAP] (SOAP soon)
 - [WEBSOCKET] (WEB SOCKET SOON)
 
