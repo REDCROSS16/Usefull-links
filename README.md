@@ -42,6 +42,9 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 - [SOAP] (SOAP soon)
 - [WEBSOCKET] (WEB SOCKET SOON)
 
+### API DOC
+- [learnApiDoc](https://starkovden.github.io/overview-specification-formats.html)
+
 ### Utilities
 - [IDE / Редакторы кода](/IDE/ide.md)
 - [video2webp converter](https://video2webp.mattj.io/)
