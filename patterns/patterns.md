@@ -13,7 +13,7 @@
 [Composite](structural/composite.md)
 [Decorator](structural/decorator.md)
 [Facade](structural/facade.md)
-[Proxy]()
+[Proxy](structural/proxy.md)
 [Lightweight]()
 
 
