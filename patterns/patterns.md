@@ -14,7 +14,7 @@
 [Decorator](structural/decorator.md)
 [Facade](structural/facade.md)
 [Proxy](structural/proxy.md)
-[Lightweight]()
+[Lightweight](structural/lightweight.md)
 
 
 ### Поведенческие / behavioral
