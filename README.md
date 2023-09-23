@@ -104,4 +104,4 @@ In this section outlined main principles: SOLID, LoD, YAGNI, KISS, DRY, etc.
 - [main](/books/main.md)
 
 # php-libraries
-- mighty
+- [Mighty](/php-libraries/mighty)
